@@ -1,0 +1,21 @@
+
+ body {
+  
+    background-color: rgb(214, 231, 185);
+  }
+
+
+
+  .container {
+    width: 60%;
+    height: 340px;
+    padding:0%;
+   
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    right: 20%;
+    /*margin-left: -160px;
+    margin-top: -70px;
+    */
+  }
